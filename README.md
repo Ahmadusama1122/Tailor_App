@@ -1,4 +1,16 @@
 # Tailor_App
+
+I did this project for my client and to increase my hand on skills in this project I used following topics of flutter
+
+–Localization
+–Geocoder
+–Cool Dropdown
+–Google map integration
+–Image picker
+–Pop up's
+–Validation's
+–Navigation
+
 ![Screenshot (133)](https://user-images.githubusercontent.com/83639015/168576571-b949a06b-30ef-4ffa-9714-584bcc9b3c85.png)
 ![Screenshot (134)](https://user-images.githubusercontent.com/83639015/168576582-ef84ff84-15da-4657-b2fa-97ecb3ae4b17.png)
 ![Screenshot (135)](https://user-images.githubusercontent.com/83639015/168576583-5ad73343-a859-429d-ae76-f082282644dd.png)
